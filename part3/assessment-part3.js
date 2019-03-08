@@ -14,7 +14,13 @@
 
 // CODE HERE...
 
+function callBinding(magicAnimals, updateAnimal, id){
 
+
+    
+updateAnimal('Trogdor')
+
+}
 
 // *************
 // * PROBLEM 2 *
@@ -29,7 +35,9 @@
 
 // CODE HERE...
 
+function applyBinding(magicAnimals, updateAnimal, id){
 
+}
 
 // *************
 // * PROBLEM 3 *
